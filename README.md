@@ -1,10 +1,11 @@
-# Library Managment
+# Library Management
 
-Hello, Im Arsalan, This is a project is for managing the library for what books are available or not
+Hi there! I'm Arsalan, and this project is all about efficiently managing a library's book inventory. Whether you're keeping track of available books or monitoring borrowed ones, this system has you covered.
 
-What Frameworks Used:
-- Tailwind CSS
-- React
-- Vite
+## Frameworks Used
 
-Im happy to see your ideas in pull requests
+- **Tailwind CSS**: For sleek and responsive styling.
+- **React**: To build dynamic user interfaces.
+- **Vite**: A fast and efficient build tool for modern web development.
+
+Feel free to contribute your ideas through pull requests—I'm excited to see what improvements we can make together! 📚🌟
